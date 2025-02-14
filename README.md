@@ -14,6 +14,11 @@ El script realiza las siguientes operaciones:
 4. Almacenamiento en SQLite: Almacena los datos seleccionados en una base de datos SQLite (`mi_base_de_datos.db`).
 5. Verificación: Realiza una consulta a la base de datos para verificar que los datos se han almacenado correctamente.
 
+## Datos
+
+El dataset utilizado en este proyecto fue obtenido de Kaggle: Nike Global Sales Data (2024)([URL del dataset en Kaggle](https://www.kaggle.com/datasets/ayushcx/nike-global-sales-data-2024))
+Agradezco a Kaggle por proporcionar el dataset utilizado en este proyecto.
+
 ## Instalación
 
 1. Clona este repositorio en tu máquina local:
