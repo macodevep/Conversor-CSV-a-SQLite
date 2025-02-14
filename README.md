@@ -21,9 +21,5 @@ Agradezco a Kaggle por proporcionar el dataset utilizado en este proyecto.
 
 ## Instalación
 
-1. Clona este repositorio en tu máquina local:
-
-   ```bash
-   
 1. Clona el repositorio: git clone https://github.com/macodevep/Conversor-CSV-a-SQLite.git
 2. Instala los requisitos: `pip install -r requirements.txt`
