@@ -1,7 +1,4 @@
-# Proyecto de Análisis de Ventas de Nike
-
-Conversor CSV a SQLite:
-# Conversor de CSV a SQLite
+# Proyecto Conversor CSV a SQLite:
 
 Este proyecto es una herramienta que convierte archivos CSV en una base de datos SQLite. Está diseñado para facilitar el almacenamiento y consulta de datos estructurados. Lee un archivo CSV que contiene información sobre ventas, selecciona columnas específicas y almacena los datos en una base de datos SQLite. Luego, realiza una consulta para verificar que los datos se han almacenado correctamente.
 
