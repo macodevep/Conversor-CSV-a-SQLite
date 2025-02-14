@@ -14,17 +14,11 @@ El script realiza las siguientes operaciones:
 4. Almacenamiento en SQLite: Almacena los datos seleccionados en una base de datos SQLite (`mi_base_de_datos.db`).
 5. Verificación: Realiza una consulta a la base de datos para verificar que los datos se han almacenado correctamente.
 
-## Requisitos
-
-Para ejecutar este proyecto, necesitas tener instalado lo siguiente:
-
-- pandas
-- sqlite3
-
 ## Instalación
 
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/macodevep/Conversor-CSV-a-SQLite.git
    
+1. Clona el repositorio: git clone https://github.com/macodevep/Conversor-CSV-a-SQLite.git
+2. Instala los requisitos: `pip install -r requirements.txt`
